@@ -45,7 +45,6 @@ Completion Links :
 
 Devops config (config.toml):
 
-
 [[plugin]]
 name = “check”
 alias = "devctl-check-config"
