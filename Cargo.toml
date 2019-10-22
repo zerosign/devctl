@@ -7,3 +7,6 @@ edition = "2018"
 [dependencies]
 serde-lexpr = "0.1.1"
 combine = "3.8.1"
+
+[build-dependencies]
+built = "0.3"
